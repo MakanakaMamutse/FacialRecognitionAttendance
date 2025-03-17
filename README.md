@@ -57,9 +57,7 @@ The current implementation has some performance limitations, especially in:
 4. **Model Optimization**: Consider using a lighter model for facial recognition to reduce computation time.
 5. **Indexed Database Queries**: Optimize Firebase queries by structuring the database for faster lookups.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 🤝 Contributing
 Feel free to fork this project and contribute improvements!
+![facialRecogntion.JPG](..%2F..%2FDownloads%2FfacialRecogntion.JPG)
 
