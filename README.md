@@ -60,4 +60,6 @@ The current implementation has some performance limitations, especially in:
 ## 🤝 Contributing
 Feel free to fork this project and contribute improvements!
 
+![facialRecogntion](https://github.com/user-attachments/assets/7c2d5bb6-f910-455e-bf14-4a5a69c556f9)
+
 
